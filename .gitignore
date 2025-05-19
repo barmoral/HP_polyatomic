@@ -10,3 +10,4 @@
 _pycache_/
 harmonic_*.ipynb
 pythonscript.py
+*/*_5ns/*
