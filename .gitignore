@@ -1,0 +1,12 @@
+*.xtc
+*.dcd
+*.chk
+*.pkl
+*.lock
+*.npz
+*.pyc
+*/equil_sim_*/*
+*/prod_sim_*/*
+_pycache_/
+harmonic_*.ipynb
+pythonscript.py
